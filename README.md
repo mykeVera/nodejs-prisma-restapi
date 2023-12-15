@@ -1,4 +1,7 @@
-*** NODE JS Y PRIMAS ORM ****
+*** NEST JS REST API - [] SIMULA DDBB ***
+
+Nodejs y Prisma ORM REST API
+https://www.youtube.com/watch?v=ESShhQmBjjY&t=64s&ab_channel=FaztCode
 
 * 1 En la carpeta raiz del proyecto
 
