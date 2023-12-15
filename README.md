@@ -1,4 +1,4 @@
-*** NEST JS REST API - [] SIMULA DDBB ***
+*** NODE Y PRISMA ORM (Sqlite) ***
 
 Nodejs y Prisma ORM REST API
 https://www.youtube.com/watch?v=ESShhQmBjjY&t=64s&ab_channel=FaztCode
